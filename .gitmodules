@@ -1,0 +1,3 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/t1nak/t1nak.github.io.git
