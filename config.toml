@@ -47,7 +47,7 @@ disableKinds = ["page", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap",
     scope = [
         # "UX for [member dashboard](#)",
         "Python Project [BlackRhino](https://github.com/cogeorg/BlackRhino)",
-        "Best Finance Institute in SA:[AIFMRM](www.aifmrm.uct.ac.za/)"
+        "Best Finance Institute in SA:[AIFMRM](http://www.aifmrm.uct.ac.za/)"
       ]
     biography = """.
     I work under the supervision of [Dr Co-Pierre Georg](http://cogeorg.github.io) on projects in empirical banking and computational finance. We are developing BlackRhino, an open source agent-based model of the financial system in python.
