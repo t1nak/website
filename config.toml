@@ -1,4 +1,4 @@
-baseURL = "http://t1nak.github.io"
+baseURL = "https://t1nak.github.io"
 languageCode = "en-us"
 title = "Tina Koziol"
 theme = "hugo-identity-theme"
